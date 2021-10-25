@@ -1,1 +1,28 @@
+h1
+{
+    background-color: lightblue;
+    color: green;
+    font-family: sans-serif;
+    display: block;
+    margin: inherit;
+}
 
+body
+{
+    text-align: center;
+    background-color: orange;
+    font-family: sans-serif;
+    color: red;
+}
+
+nav
+{
+    background-color: salmon;
+}
+
+footer
+{
+    background-color: seagreen;
+    color: snow;
+    
+}
